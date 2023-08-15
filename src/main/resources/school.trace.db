@@ -1,0 +1,3 @@
+2023-08-14 12:09:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from STUDENT where studentname = ? and gender = ? [*]standard = ?"; SQL statement:
+select * from STUDENT where studentname = ? and gender = ? standard = ? [42000-214]
